@@ -1,0 +1,18 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "poke_events:calendar",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:rarity": "common",
+			"minecraft:icon": "poke_calendar",
+			"minecraft:custom_components": [
+				"poke_events:timeConfig"
+			]
+		}
+	}
+}

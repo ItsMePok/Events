@@ -1,0 +1,49 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "pack_scope": "world",
+    "description": "pack.description",
+    "uuid": "ad82b517-9f44-42bb-b9b7-9747d7586dec",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "My Resource Pack",
+      "type": "resources",
+      "uuid": "12b6c6e7-e346-4a25-a0e1-8459ee45e5fe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "abc35bec-915d-442e-b696-2c51dd05c51e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "ItsMePok"
+    ],
+    "license": "MIT", // RP/LICENSE
+    "product_type": "addon",
+    "url": "https://github.com/ItsMePok/Events"
+  }
+}
