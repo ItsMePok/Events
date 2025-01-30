@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Etkinlik Seçenekleri
 translation.poke_events:timeEventOptionsEditTime=Tarih ve Saati Düzenle
 translation.poke_events:timeEventEditTimeTitle=Tarih ve Saati Düzenleme
 translation.poke_events:timeEditGiftTextFieldLabel=Oyuncuların etkinlik penceresi sırasında alabilecekleri hediye~LINEbreak~~LINEbreak~Bu bir Minecraft komutu kullanılarak çalışır (ör. /give)
+translation.poke_events:timeEventId=Olay kimliği
 
 item.poke_events:calendar.name=Takvim~LINEBREAK~§7Etkinlik ekleme/görüntüleme işlemlerini görmek için etkileşimde bulunun~LINEBREAK~§9Etkinlikler

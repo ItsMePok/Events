@@ -1,0 +1,5 @@
+Test,TestId,Type,Item,Message,Data,Path
+CADDONREQ,160,Test fail,,"Found more than one behavior pack manifest in a cooperative add-on, which is not a best practice",,,
+CADDONREQ,161,Test fail,,"Found more than one resource pack manifest in a cooperative add-on, which is not a best practice",,,
+WORLDDATA,1,Test success,,"Test World Data Validation completed successfully.",,,
+CADDONIREQ,1,Test success,,"Test Cooperative Add-On Item Requirements Generator completed successfully.",,,

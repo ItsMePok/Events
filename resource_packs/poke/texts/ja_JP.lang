@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=イベントオプション
 translation.poke_events:timeEventOptionsEditTime=日付と時刻を編集する
 translation.poke_events:timeEventEditTimeTitle=日付と時刻の編集
 translation.poke_events:timeEditGiftTextFieldLabel=イベント期間中にプレイヤーが受け取ることができるギフト~LINEBREAK~~LINEBREAK~これは Minecraft コマンド (例: /give) を使用して機能します。
+translation.poke_events:timeEventId=イベントID
 
 item.poke_events:calendar.name=カレンダー~LINEBREAK~§7操作してイベントの追加/表示を確認する~LINEBREAK~§9イベント

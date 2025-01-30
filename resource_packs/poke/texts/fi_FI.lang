@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Tapahtuman asetukset
 translation.poke_events:timeEventOptionsEditTime=Muokkaa päivämäärää ja aikaa
 translation.poke_events:timeEventEditTimeTitle=Päiväyksen ja ajan muokkaaminen
 translation.poke_events:timeEditGiftTextFieldLabel=Lahja, jonka pelaajat voivat lunastaa tapahtumaikkunan aikana~LINEBREAK~~LINEBREAK~Tämä toimii Minecraft-komennolla (esim. /give)
+translation.poke_events:timeEventId=Tapahtumatunnus
 
 item.poke_events:calendar.name=Kalenteri~LINEBREAK~§7Ota yhteyttä nähdäksesi lisää/tarkastele tapahtumia~LINEBREAK~§9Tapahtumia

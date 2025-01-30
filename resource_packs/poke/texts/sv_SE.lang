@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Händelsealternativ
 translation.poke_events:timeEventOptionsEditTime=Redigera datum och tid
 translation.poke_events:timeEventEditTimeTitle=Redigera datum och tid
 translation.poke_events:timeEditGiftTextFieldLabel=Gåvan spelarna kan göra anspråk på under evenemangsfönstret~LINEBREAK~~LINEBREAK~Detta fungerar med ett Minecraft-kommando (t.ex. /give)
+translation.poke_events:timeEventId=Händelse -ID
 
 item.poke_events:calendar.name=Kalender~LINEBREAK~§7Interagera för att se lägg till/visa händelser~LINEBREAK~§9Händelser

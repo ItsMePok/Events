@@ -39,7 +39,7 @@
       "module_name": "@minecraft/server-ui",
       "version": "1.3.0"
     },
-    {
+    { //RP Manifest
       "uuid": "ad82b517-9f44-42bb-b9b7-9747d7586dec",
       "version": [
         1,

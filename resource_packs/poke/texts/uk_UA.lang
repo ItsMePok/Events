@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Параметри події
 translation.poke_events:timeEventOptionsEditTime=Редагувати дату й час
 translation.poke_events:timeEventEditTimeTitle=Редагування дати й часу
 translation.poke_events:timeEditGiftTextFieldLabel=Подарунок, який гравці можуть отримати під час вікна події~LINEBREAK~~LINEBREAK~Це працює за допомогою команди Minecraft (наприклад, /give)
+translation.poke_events:timeEventId=Ідентифікатор події
 
 item.poke_events:calendar.name=Календар~LINEBREAK~§7Взаємодійте, щоб побачити додавання/перегляд подій~LINEBREAK~§9Події

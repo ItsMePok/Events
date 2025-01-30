@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=活动选项
 translation.poke_events:timeEventOptionsEditTime=编辑日期和时间
 translation.poke_events:timeEventEditTimeTitle=编辑日期和时间
 translation.poke_events:timeEditGiftTextFieldLabel=玩家可以在活动窗口期间领取的礼物~LINEBREAK~~LINEBREAK~这可以使用 Minecraft 命令（例如 /give）来实现
+translation.poke_events:timeEventId=事件ID
 
 item.poke_events:calendar.name=日历~LINEBREAK~§7互动以查看添加/查看活动~LINEBREAK~§9活动

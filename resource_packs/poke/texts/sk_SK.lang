@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Možnosti udalosti
 translation.poke_events:timeEventOptionsEditTime=Upraviť dátum a čas
 translation.poke_events:timeEventEditTimeTitle=Úprava dátumu a času
 translation.poke_events:timeEditGiftTextFieldLabel=Darček, ktorý si hráči môžu nárokovať počas okna udalosti~LINEBREAK~~LINEBREAK~Funguje to pomocou príkazu Minecraft (napr. /give)
+translation.poke_events:timeEventId=ID udalosti
 
 item.poke_events:calendar.name=Kalendár~LINEBREAK~§7Interakciou zobrazíte pridanie/zobrazenie udalostí~LINEBREAK~§9Udalosti

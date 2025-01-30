@@ -18,7 +18,7 @@
   },
   "modules": [
     {
-      "description": "My Resource Pack",
+      "description": "Poke-Events RP",
       "type": "resources",
       "uuid": "12b6c6e7-e346-4a25-a0e1-8459ee45e5fe",
       "version": [
@@ -29,7 +29,7 @@
     }
   ],
   "dependencies": [
-    {
+    { // BP Manifest
       "uuid": "abc35bec-915d-442e-b696-2c51dd05c51e",
       "version": [
         1,

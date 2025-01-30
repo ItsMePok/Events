@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Eseménybeállítások
 translation.poke_events:timeEventOptionsEditTime=Dátum és idő szerkesztése
 translation.poke_events:timeEventEditTimeTitle=Dátum és idő szerkesztése
 translation.poke_events:timeEditGiftTextFieldLabel=Az ajándék, amelyet a játékosok átvehetnek az esemény ablakában~LINEBREAK~~LINEBREAK~Ez egy Minecraft parancs segítségével működik (pl. /give)
+translation.poke_events:timeEventId=Esemény azonosítója
 
 item.poke_events:calendar.name=Naptár~LINEBREAK~§7Események hozzáadásához/megtekintéséhez interakcióba léphet~LINEBREAK~§9Események

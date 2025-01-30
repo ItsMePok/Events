@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Eventalternativer
 translation.poke_events:timeEventOptionsEditTime=Rediger dato og klokkeslett
 translation.poke_events:timeEventEditTimeTitle=Redigering av dato og klokkeslett
 translation.poke_events:timeEditGiftTextFieldLabel=Gaven spillerne kan kreve under arrangementsvinduet~LINEBREAK~~LINEBREAK~Dette fungerer med en Minecraft-kommando (f.eks. /give)
+translation.poke_events:timeEventId=Hendelses -ID
 
 item.poke_events:calendar.name=Kalender~LINEBREAK~§7Samhandle for å se legg til/se hendelser~LINEBREAK~§9Begivenheter

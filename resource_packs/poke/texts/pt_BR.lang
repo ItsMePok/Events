@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Opções de evento
 translation.poke_events:timeEventOptionsEditTime=Editar data e hora
 translation.poke_events:timeEventEditTimeTitle=Edição de data e hora
 translation.poke_events:timeEditGiftTextFieldLabel=O presente que os jogadores podem reivindicar durante a janela do evento~LINEBREAK~~LINEBREAK~Isso funciona usando um comando do Minecraft (ex. /give)
+translation.poke_events:timeEventId=ID do evento
 
 item.poke_events:calendar.name=Calendário~LINEBREAK~§7Interaja para ver, adicionar/visualizar eventos~LINEBREAK~§9Eventos

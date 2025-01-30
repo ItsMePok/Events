@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Opsi Acara
 translation.poke_events:timeEventOptionsEditTime=Edit Tanggal & Waktu
 translation.poke_events:timeEventEditTimeTitle=Mengedit Tanggal & Waktu
 translation.poke_events:timeEditGiftTextFieldLabel=Hadiah yang dapat diklaim pemain selama jendela acara~LINEBREAK~~LINEBREAK~Ini berfungsi menggunakan perintah Minecraft (mis. /give)
+translation.poke_events:timeEventId=ID Acara
 
 item.poke_events:calendar.name=Kalender~LINEBREAK~§7Berinteraksi untuk melihat tambah/lihat acara~LINEBREAK~§9Acara

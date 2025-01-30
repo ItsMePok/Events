@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Opcje wydarzenia
 translation.poke_events:timeEventOptionsEditTime=Edytuj datę i godzinę
 translation.poke_events:timeEventEditTimeTitle=Edycja daty i godziny
 translation.poke_events:timeEditGiftTextFieldLabel=Prezent, który gracze mogą odebrać w oknie wydarzenia~LINEbreak~~LINEbreak~Działa to przy użyciu polecenia Minecraft (np. /daj)
+translation.poke_events:timeEventId=Identyfikator zdarzenia
 
 item.poke_events:calendar.name=Kalendarz~LINEbreak~§7Wejdź w interakcję, aby zobaczyć/dodać/wyświetlić wydarzenia~LINEbreak~§9Wydarzenia

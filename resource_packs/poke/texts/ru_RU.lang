@@ -61,5 +61,6 @@ translation.poke_events:timeEventOptionsTitle=Варианты событий
 translation.poke_events:timeEventOptionsEditTime=Изменить дату и время
 translation.poke_events:timeEventEditTimeTitle=Редактирование даты и времени
 translation.poke_events:timeEditGiftTextFieldLabel=Подарок, который игроки могут получить в окне события~LINEBREAK~~LINEBREAK~Это работает с помощью команды Minecraft (например, /give).
+translation.poke_events:timeEventId=Идентификатор события
 
 item.poke_events:calendar.name=Календарь~LINEBREAK~§7Взаимодействуйте, чтобы увидеть добавление/просмотр событий~LINEBREAK~§9События
